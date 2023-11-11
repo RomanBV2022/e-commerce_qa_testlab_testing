@@ -2,4 +2,5 @@
 <hr>
 
 ## Testing documentation:
-* [checklist of website layout bugs](https://docs.google.com/spreadsheets/d/12V3HmpX5wEzwI04t4zEn7mQ4RodGjl2t/edit?usp=sharing&ouid=104850856033169330452&rtpof=true&sd=true)
+* [Checklist of website layout bugs](https://docs.google.com/spreadsheets/d/1powMb6rHwqmqE5A9QicjAaBvrN4xv03cWwW_XbB-M3I/edit?usp=sharing)
+* [Test Plan](https://docs.google.com/document/d/12tjx2VdvrM-SU-_t2ItIl50rucq_O_7z/edit?usp=sharing&ouid=104850856033169330452&rtpof=true&sd=true)
